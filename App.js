@@ -147,15 +147,15 @@ const styles = StyleSheet.create({
    button: {
     alignItems: 'center',
     backgroundColor: '#DDDDDD',
-    padding: 12
+    padding: 10
   },
   label: {
-    color: "blue",
-    fontSize: 16,
+    color: "black",
+    fontSize: 12,
   },
   input: {
-    fontSize: 18,
-    color: "white",
+    fontSize: 16,
+    color: "black",
   },
   switch: {
     alignSelf: "center",
